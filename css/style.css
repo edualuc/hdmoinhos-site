@@ -434,7 +434,7 @@ blockquote {
 
 .page-ttl::before, .parallax-background::before {
   background: rgba(0, 0, 0, 0.8);
-  background: linear-gradient(-90deg, rgba(2, 167, 182, 0.9), rgba(1, 82, 89, 0.9)); }
+  background: linear-gradient(-90deg, rgba(66, 115, 213, 0.9), rgba(16, 57, 165, 0.9)); }
 
 .theme-block, .form-container, .theme-table-container, .map-address,
 .hm-feature-block-1 {
@@ -489,7 +489,7 @@ blockquote {
 
 .colored-background {
   width: 100%;
-  background: linear-gradient(-90deg, rgba(2, 167, 182, 0.9), rgba(1, 82, 89, 0.9)); }
+  background: linear-gradient(-90deg, rgba(66, 115, 213, 0.9), rgba(16, 57, 165, 0.9)); }
 
 .parallax-background {
   position: relative;
@@ -1028,7 +1028,7 @@ blockquote {
   transform: scale(1.2) rotate(6deg); }
 
 .theme-block-hover:hover .theme-block-picture:before {
-  background: linear-gradient(-90deg, rgba(2, 167, 182, 0.9), rgba(1, 82, 89, 0.9)); }
+  background: linear-gradient(-90deg, rgba(66, 115, 213, 0.9), rgba(16, 57, 165, 0.9)); }
 
 .theme-block-picture {
   position: relative;
@@ -1599,7 +1599,7 @@ blockquote {
   .theme-img::before {
     opacity: .4; }
   .theme-img:hover::before {
-    background: linear-gradient(-90deg, rgba(2, 167, 182, 0.9), rgba(1, 82, 89, 0.9));
+    background: linear-gradient(-90deg, rgba(66, 115, 213, 0.9), rgba(16, 57, 165, 0.9));
     z-index: 1; }
   .theme-img img {
     width: 100%; }
@@ -2167,7 +2167,7 @@ blockquote {
     font-size: 24px; }
 
 .hdr-fixed {
-  background-color: rgba(1, 82, 89, 0.8); }
+  background-color: rgba(16, 57, 165, 0.8); }
 
 /*************************************************
 [ 5.0 HOME PAGE CSS START ] **********************
@@ -2183,7 +2183,7 @@ blockquote {
     width: 100%;
     height: 100%;
     background: rgba(0, 0, 0, 0.8);
-    background: linear-gradient(-90deg, rgba(2, 167, 182, 0.9), rgba(1, 82, 89, 0.9)); }
+    background: linear-gradient(-90deg, rgba(66, 115, 213, 0.9), rgba(16, 57, 165, 0.9)); }
   .slider-wrapper .slides li img {
     width: 100%; }
 
@@ -3563,7 +3563,7 @@ blockquote {
 
 #footer {
   width: 100%;
-  background: linear-gradient(-90deg, rgba(2, 167, 182, 0.9), rgba(1, 82, 89, 0.9));
+  background: linear-gradient(-90deg, rgba(66, 115, 213, 0.9), rgba(16, 57, 165, 0.9));
   border-top: 5px solid #000874; }
 
 .footer-block {
@@ -3698,7 +3698,7 @@ blockquote {
     min-height: 100%;
     padding: 30px 60px 30px 20px !important;
     overflow-y: scroll;
-    background: linear-gradient(-90deg, #02a7b6, #015259);
+    background: linear-gradient(-90deg, #4273d5, #1039a5);
     z-index: 99999999;
     -webkit-transition: all 0.4s;
     transition: all 0.4s; }
