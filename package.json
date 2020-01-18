@@ -1,0 +1,22 @@
+{
+  "name": "hdmoinhos-site",
+  "version": "1.0.0",
+  "description": "Site institucional do hd-moinhos",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass sass -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edualuc/hdmoinhos-site.git"
+  },
+  "keywords": [
+    "hospital-day",
+    "site"
+  ],
+  "author": "@edualuc",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
