@@ -17,6 +17,6 @@
   ],
   "author": "@edualuc",
   "devDependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^9.0.0"
   }
 }
